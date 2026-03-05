@@ -1,2 +1,2 @@
 # ML
-My Machine Learning Specialization Courses from Deeplearning.AI (From Coursera)
+My Machine Learning Journey from Course To Projects
